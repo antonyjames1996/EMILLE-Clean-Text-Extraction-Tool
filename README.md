@@ -13,7 +13,7 @@ Open terminal and write the below code to give executable permission to the scri
 $ chmod +x extractor.sh
 
 Now run the file
-$ ./extractor.sh8
+$ ./extractor.sh
 
 
 
